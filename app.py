@@ -4,8 +4,8 @@ import pandas as pd
 import joblib
 
 # ==========================================
-# Developed By : Parth
-# Roll No      : 241504
+# Developed By : Rohit
+# Roll No      : 241539
 # College      : PIET, Samalkha
 # ==========================================
 
@@ -135,9 +135,9 @@ with gr.Blocks(theme=gr.themes.Soft(), title="Obesity Prediction System") as dem
 
 ### Machine Learning Based Health Prediction
 
-**Developed By:** Parth
+**Developed By:** Rohit
 
-**Roll No:** 241504
+**Roll No:** 241539
 
 **College:** PIET, Samalkha
 """)
